@@ -1,12 +1,12 @@
-[![Stories in Ready](https://badge.waffle.io/openoakland/opendisclosure.png?label=ready&title=Ready)](https://waffle.io/openoakland/opendisclosure)
+
 opendisclosure
 ==============
 
 ## Overview
 
-The goal of the project is to produce useful visualizations and statistics for Oakland's campaign finance data, starting with the November 2014 mayoral race.
+The goal of the project is to produce useful visualizations and statistics for San Diego's campaign finance data..
 
-Meeting notes can be found in [this Google Doc](https://docs.google.com/document/d/11xji54-RiszyFBQnSBOI5Ylmzn2vC9glwAoU6A8CM_0/edit?pli=1#).
+Forked from [openoakland/opendisclosure](https://github.com/openoakland/opendisclosure)
 
 ## To install the backend in a Vagrant virtual box, follow the instructions here:
 [Instructions for installing backend in Vagrant](/README_installation_in_vagrant.md)
